@@ -37,10 +37,67 @@
     <a href="https://github.com/tusmm/readme-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/hannacodes/tusmm/readme-template">View Demo</a>
+    <a href="https://github.com/tusmm/readme-template">View Demo</a>
     ·
-    <a href="https://github.com/hannacodes/tusmm/readme-template">Report Bug</a>
+    <a href="https://github.com//tusmm/readme-template">Report Bug</a>
     ·
-    <a href="https://github.com/hannacodes/tusmm/readme-template">Request Feature</a>
+    <a href="https://github.com/tusmm/readme-template">Request Feature</a>
   </p>
 </div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#installation">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Description of the project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Key Features
+* Special features 
+* Emoji support in preview :tada:
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Built With
+
+* [![Spotify API][SpotifyAPI.com]][SpotifyAPI-url]
+* [![Flask][Flask.com]][Flask-url]
+* [![Google Cloud][GoogleCloud.com]][GoogleCloud-url]
+
+[SpotifyAPI.com]: https://img.shields.io/badge/SpotifyAPI-0d1517?style=for-the-badge&logo=spotify&logoColor=1DB954
+[SpotifyAPI-url]: https://developer.spotify.com/documentation/web-api/
+
+[Flask.com]: https://img.shields.io/badge/Flask-2a3133?style=for-the-badge&logo=flask&logoColor=FFFFFF
+[Flask-url]: https://flask.palletsprojects.com/en/2.2.x/
+
+[GoogleCloud.com]:  https://img.shields.io/badge/GoogleCloud-064f61?style=for-the-badge&logo=googlecloud&logoColor=4C8BF5
+[GoogleCloud-url]: https://cloud.google.com/
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Installation
+
+Installation details
