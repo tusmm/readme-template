@@ -1,3 +1,4 @@
+
 # project name
 
 <!-- PROJECT SHIELDS -->
@@ -24,7 +25,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div id="readme-top" align="center">
   <a href="https://github.com/tusmm/readme-template">
     <img src="images/logo.png" alt="banner" width="600" height="200">
   </a>
@@ -62,6 +63,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributors">Contributors</a></li>
     
   </ol>
 </details>
@@ -75,13 +77,14 @@ Description of the project
 
 ## Key Features
 * Special features 
-* Emoji support in preview :tada:
+* :tada:
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
-
+<!-- [![Title][Link to image shield]][link to the tool] -->
+<!-- Examples below -->
 * [![Spotify API][SpotifyAPI.com]][SpotifyAPI-url]
 * [![Flask][Flask.com]][Flask-url]
 * [![Google Cloud][GoogleCloud.com]][GoogleCloud-url]
@@ -101,3 +104,22 @@ Description of the project
 ## Installation
 
 Installation details
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Prerequisites
+
+Prerequisite deatils
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Usage
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+Usage details
+
+## Contributors
+* Contributors
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
