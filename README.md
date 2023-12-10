@@ -1,4 +1,4 @@
-# Project Name
+<h1 id="readme-top">Project Name</h1>
 
 <!-- PROJECT SHIELDS -->
 <!--
