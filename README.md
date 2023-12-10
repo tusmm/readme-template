@@ -1,5 +1,4 @@
-
-# project name
+# Project Name
 
 <!-- PROJECT SHIELDS -->
 <!--
